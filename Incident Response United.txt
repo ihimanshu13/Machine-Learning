@@ -1,3 +1,5 @@
+Hi, Start learning Data Security
+
 1. Personally Identifiable Information (PII)PII is the broadest category. 
 It refers to any data that can be used to distinguish or trace an individual's identity, 
 either alone or when combined with other relevant information.
@@ -21,3 +23,4 @@ Examples: Medical records, laboratory results, health insurance claims, mental h
 umbrella but have even stricter storage rules.Regulations: Governed by the Payment Card Industry Data Security Standard (PCI DSS),
  maintained by the major card brands (Visa, Mastercard, Amex, etc.).
 Goal: To reduce credit card fraud and secure the global payment ecosystem.
+
