@@ -1,0 +1,23 @@
+1. Personally Identifiable Information (PII)PII is the broadest category. 
+It refers to any data that can be used to distinguish or trace an individual's identity, 
+either alone or when combined with other relevant information.
+Examples: Full name, Social Security Number (SSN), driver’s license number, email address, physical address, and biometric records.
+Regulations:
+ Governed by various laws such as the GDPR (Europe), CCPA/CPRA (California), and various data breach notification laws.Goal: 
+To protect individual privacy and prevent identity theft.
+
+
+2. Personal Health Information (PHI)PHI is essentially PII specifically related to health care. 
+It includes any information about health status, provision of health care, or payment for health care that can be linked to a specific individual.
+Examples: Medical records, laboratory results, health insurance claims, mental health notes, and appointment dates.Regulations:
+ In the U.S., this is strictly governed by the Health Insurance Portability and Accountability Act (HIPAA).Key Distinction:
+ Data is only considered PHI when it is held by a "Covered Entity" (like a doctor, hospital, or health insurer) or their business associates.
+ A step counter app you use for fun might collect "health data," but it isn't legally PHI unless it's tied to a medical provider.
+
+
+3. Payment Card Information (PCI)PCI refers specifically to data related to credit, debit, and other payment cards.
+ This is a private industry standard rather than a federal law, though its impact is global.Examples: Primary Account Number (PAN),
+ cardholder name, expiration date, and Service Code. Sensitive Authentication Data (SAD) like CVV codes and PINs also fall under this 
+umbrella but have even stricter storage rules.Regulations: Governed by the Payment Card Industry Data Security Standard (PCI DSS),
+ maintained by the major card brands (Visa, Mastercard, Amex, etc.).
+Goal: To reduce credit card fraud and secure the global payment ecosystem.
